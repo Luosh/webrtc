@@ -15,6 +15,7 @@ group("modules") {
     "audio_device",
     "audio_mixer",
     "audio_processing",
+    "backing_track",
     "congestion_controller",
     "pacing",
     "recording",
